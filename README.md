@@ -21,8 +21,9 @@
 | Giao diện chính | Bắt lỗi Validation | Thao tác Xóa (MessageBox) |
 | :---: | :---: | :---: |
 | ![Main]<img width="680" height="407" alt="Screenshot 2026-10-23 145626" src="https://github.com/user-attachments/assets/41c63e2c-ffe4-40cc-b44d-2d9a7eba239f" />
- | ![Error]<img width="656" height="403" alt="Screenshot 2026-10-23 145819" src="https://github.com/user-attachments/assets/405892db-4bd0-496b-a1d6-17a8ceb7f65b" />
- | ![Result]<img width="657" height="401" alt="Screenshot 2026-10-23 145901" src="https://github.com/user-attachments/assets/917fa173-2c82-4dd2-9f87-8dd98ae6c0f5" />
+ | ![Error]<img width="657" height="401" alt="Screenshot 2026-10-23 145901" src="https://github.com/user-attachments/assets/917fa173-2c82-4dd2-9f87-8dd98ae6c0f5" />
+ | ![Result]<img width="656" height="403" alt="Screenshot 2026-10-23 145819" src="https://github.com/user-attachments/assets/2c8b530a-b60b-4713-a734-4828332577b3" />
+
  |
 
 ---
