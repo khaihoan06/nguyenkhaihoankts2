@@ -34,8 +34,12 @@
   - Tự động cập nhật tổng số nhân viên và quỹ lương lên `StatusStrip`.
 
 | Giao diện & Avatar | Hộp thoại Đọc / Ghi CSV | Danh sách nạp từ CSV |
+
 | :---: | :---: | :---: |
-| ![Main](docs/bai2_main.png) | ![CSV](docs/bai2_error.png) | ![Result](docs/bai2_result.png) |
+| ![Main] <img width="623" height="404" alt="a1" src="https://github.com/user-attachments/assets/ab400fb1-f039-4e6f-b8b2-742e23bac449" />
+| ![CSV]<img width="601" height="376" alt="a2" src="https://github.com/user-attachments/assets/9327993c-06fa-4347-bcd7-30a0835aec0f" />
+ | ![Result]<img width="485" height="390" alt="a3" src="https://github.com/user-attachments/assets/0ef960f8-7efa-46e1-b86c-6c44a63a47d5" />
+ |
 
 ---
 
