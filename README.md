@@ -51,7 +51,10 @@
 
 | Khung MDI & Form con | Xếp tầng (Cascade / Tile) | Ngăn chặn Duplicate Form |
 | :---: | :---: | :---: |
-| ![MDI](docs/bai3_main.png) | ![Cascade](docs/bai3_error.png) | ![Prevent Duplicate](docs/bai3_result.png) |
+| ![MDI]<img width="641" height="473" alt="Screenshot 2026-10-23 150910" src="https://github.com/user-attachments/assets/c0789212-b6dd-4f3a-a255-13152b93d178" />
+ | ![Cascade]<img width="445" height="284" alt="Screenshot 2026-10-23 150921" src="https://github.com/user-attachments/assets/79145894-5ffa-40a6-8895-5f962f00438a" />
+ | ![Prevent Duplicate]<img width="643" height="479" alt="Screenshot 2026-10-23 150946" src="https://github.com/user-attachments/assets/9c1df1f6-5e35-4ceb-b334-f36cb94de8f3" />
+|
 
 ---
 
@@ -63,7 +66,10 @@
 
 | Đang tải (Không đơ Form) | Hủy tác vụ thành công | Kết quả tổng hợp báo cáo |
 | :---: | :---: | :---: |
-| ![Running](docs/bai4_main.png) | ![Cancel](docs/bai4_error.png) | ![Result](docs/bai4_result.png) |
+| ![Running]<img width="619" height="369" alt="image" src="https://github.com/user-attachments/assets/b68715e7-92ce-40f7-a7c7-dacafcc45f0c" />
+ | ![Cancel]<img width="614" height="368" alt="image" src="https://github.com/user-attachments/assets/acf2e8f5-fa5d-4a3e-b756-399121fac0b0" />
+ | ![Result]<img width="617" height="366" alt="image" src="https://github.com/user-attachments/assets/0ff48955-bc13-4a88-aa20-309f24e189ad" />
+ |
 
 ---
 
@@ -75,7 +81,10 @@
 
 | Trạng thái Bình thường | Cảnh báo Vượt ngưỡng | Bảng Log & Đếm chu kỳ |
 | :---: | :---: | :---: |
-| ![Normal](docs/bai5_main.png) | ![Warning](docs/bai5_error.png) | ![Result](docs/bai5_result.png) |
+| ![Normal]<img width="488" height="351" alt="image" src="https://github.com/user-attachments/assets/a0d664f8-8f31-484d-94a0-96585e400b16" />
+ | ![Warning]<img width="485" height="348" alt="image" src="https://github.com/user-attachments/assets/fb6d3d9a-000f-45da-8afa-e16b103a0087" />
+ | ![Result]<img width="475" height="344" alt="image" src="https://github.com/user-attachments/assets/741ceb84-94da-4580-bebe-3f2881963859" />
+ |
 
 ---
 
